@@ -32,8 +32,8 @@ int minCut(string s)
 	
 }
 
-int main()
-{
-	cout <<minCut("dsdsdfsdfdfsad")<< endl;
-	return 0;
-}
+//int main()
+//{
+//	cout <<minCut("dsdsdfsdfdfsad")<< endl;
+//	return 0;
+//}

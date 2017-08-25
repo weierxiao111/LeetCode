@@ -121,6 +121,7 @@
   <ItemGroup>
     <ClCompile Include="Palindrome Partitioning II.cpp" />
     <ClCompile Include="palindrome-partitioning.cpp" />
+    <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="Word Break II.cpp" />
     <ClCompile Include="Word Break.cpp" />
     <ClCompile Include="第一题.cpp" />

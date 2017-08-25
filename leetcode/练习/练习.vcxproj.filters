@@ -33,5 +33,8 @@
     <ClCompile Include="Palindrome Partitioning II.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Triangle.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
