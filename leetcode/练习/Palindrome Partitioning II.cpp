@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 using namespace std;
 #include <vector>
@@ -31,7 +32,7 @@ int minCut(string s)
 	return f[0];
 	
 }
-
+#endif
 //int main()
 //{
 //	cout <<minCut("dsdsdfsdfdfsad")<< endl;

@@ -119,11 +119,20 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Best Time to Buy and Sell Stock.cpp" />
+    <ClCompile Include="First Missing Positive.cpp" />
+    <ClCompile Include="Insertion Sort List.cpp" />
+    <ClCompile Include="Median of Two Sorted Arrays.cpp" />
     <ClCompile Include="Palindrome Partitioning II.cpp" />
     <ClCompile Include="palindrome-partitioning.cpp" />
+    <ClCompile Include="Remove Duplicates from Sorted Array.cpp" />
+    <ClCompile Include="Sort Color.cpp" />
+    <ClCompile Include="test.cpp" />
     <ClCompile Include="Triangle.cpp" />
     <ClCompile Include="Word Break II.cpp" />
     <ClCompile Include="Word Break.cpp" />
+    <ClCompile Include="判断合法ip.cpp" />
+    <ClCompile Include="最长不重复子串.cpp" />
     <ClCompile Include="第一题.cpp" />
     <ClCompile Include="第二题.cpp" />
   </ItemGroup>

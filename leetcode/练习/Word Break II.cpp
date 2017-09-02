@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 using namespace std;
 #include <unordered_set>
@@ -60,6 +61,8 @@ void getpath(string& s,vector<string>& result, vector< vector<bool>>& dp, vector
 		}
 	}
 }
+
+#endif
 
 //int main()
 //{

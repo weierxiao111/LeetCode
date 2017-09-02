@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 using namespace std;
 #include <vector>
@@ -43,3 +44,5 @@ int fun(vector<int> v, int n)
 //		cout << "no" << endl;
 //	return 0;
 //}
+
+#endif

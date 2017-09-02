@@ -1,3 +1,6 @@
+
+#if 0
+
 #include <iostream>
 using namespace std;
 #include <unordered_set>
@@ -36,5 +39,5 @@ bool wordBreak(string s, unordered_set<string> &dict)
 //	cout << wordBreak(str,s) << endl;
 //	return 0;
 //}
-
+#endif
 

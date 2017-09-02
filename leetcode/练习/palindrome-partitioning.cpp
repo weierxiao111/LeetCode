@@ -1,3 +1,4 @@
+#if 0
 //可以被分成的回文子串
 #include <iostream>
 using namespace std;
@@ -41,6 +42,7 @@ void dfs(string s, vector<vector<string>>& result, vector<string> &res,
 	}
 }
 
+#endif
 //int main()
 //{
 //	string s = "aab";

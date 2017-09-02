@@ -1,3 +1,5 @@
+#if 0
+
 #include <iostream>
 using namespace std;
 #include <vector>
@@ -36,3 +38,5 @@ int fun(int n)
 //	}
 //	return 0;
 //}
+
+#endif

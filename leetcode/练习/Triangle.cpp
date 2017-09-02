@@ -1,3 +1,4 @@
+#if 0
 #include <iostream>
 using namespace std;
 #include <vector>
@@ -15,7 +16,8 @@ int minimumTotal(vector<vector<int> > &triangle)
 	return triangle[0][0];
 }
 
-int main()
-{
-	return 0;
-}
+//int main()
+//{
+//	return 0;
+//}
+#endif 

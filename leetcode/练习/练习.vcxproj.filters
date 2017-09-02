@@ -36,5 +36,32 @@
     <ClCompile Include="Triangle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="Best Time to Buy and Sell Stock.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="First Missing Positive.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Sort Color.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Insertion Sort List.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Remove Duplicates from Sorted Array.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Median of Two Sorted Arrays.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="判断合法ip.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="最长不重复子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
